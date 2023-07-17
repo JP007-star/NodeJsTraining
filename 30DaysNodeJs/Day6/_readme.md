@@ -1,0 +1,20 @@
+create arrays in node.js and 
+array methods such as 
+push , 
+pop , 
+shift , 
+unshift , 
+reverse , 
+sort , 
+splice , 
+concat , 
+indexOf , 
+lastIndexOf , 
+join , 
+slice , 
+every , 
+filter , 
+find , 
+forEach , 
+reduce , 
+etc. 
