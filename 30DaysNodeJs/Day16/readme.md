@@ -2,3 +2,21 @@ zlib module is used to provide compression and decompression functionalities in 
 In simple words , it is used to zip or unzip files.
 These functionalities are implemented using GZIP and deflate/inflate .
 We can use the zlib module via requiring it in the following way :
+
+
+createDeflate()
+createInflate()
+createDeflateRaw()
+createInflateRaw()
+deflateSync()
+inflateSync()
+deflateRaw()
+inflateRaw()
+deflateRawSync()
+inflateRawSync()
+gzip()
+unzip()
+gzipSync()
+unzipSync()
+createGzip()
+createGunzip()
